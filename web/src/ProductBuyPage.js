@@ -71,7 +71,6 @@ class ProductBuyPage extends React.Component {
       plan: null,
       isPlacingOrder: false,
       customPrice: 0,
-      organization: null,
     };
   }
 
